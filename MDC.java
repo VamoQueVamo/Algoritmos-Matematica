@@ -23,6 +23,7 @@ public class MDC {
 	 * 
 	 * 
 	 * Observacoes:
+	 *
 	 */
 
 	static int mdc(int a, int b) {
