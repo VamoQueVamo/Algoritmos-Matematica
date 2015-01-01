@@ -6,24 +6,23 @@ public class MDC {
 	 * 
 	 * Objetivo:
 	 * 
-	 * Determinar o maior divisor comum, entre dois inteiros positivos a e b
+	 * 		Determinar o maior divisor comum, entre dois inteiros positivos a e b
 	 * 
 	 * Como chamar o metodo:
 	 * 
-	 * Basta chamar o metodo passando por parametro os inteiro a e b, no qual
-	 * deseja saber o maior divisor comum
-	 * 
-	 * Ex.: int resposta = mdc( 1, 2 );
+	 * 		Basta chamar o metodo passando por parametro os inteiro a e b, no qual
+	 * 		deseja saber o maior divisor comum	 * 
+	 * 		Ex.: int resposta = mdc( 1, 2 );
 	 * 
 	 * Complexidade do algoritmo:
 	 * 
-	 * O(?)
+	 * 		O(?)
 	 * 
 	 * Problemas resolvidos:
 	 * 
 	 * 
 	 * Observacoes:
-	 *
+	 * 
 	 */
 
 	static int mdc(int a, int b) {
