@@ -21,6 +21,7 @@ public class MMC {
 	 * 
 	 * 
 	 * Observacoes:
+	 *
 	 */
 
 	static int mmc(int a, int b) {
